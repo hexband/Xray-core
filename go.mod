@@ -61,3 +61,5 @@ require (
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 	gvisor.dev/gvisor v0.0.0-20260122175437-89a5d21be8f0 // indirect
 )
+
+replace github.com/xtls/reality => github.com/hexband/reality v0.0.0-20261029095015-5c3697b8c032

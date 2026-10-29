@@ -68,3 +68,5 @@ tool (
 	google.golang.org/grpc/cmd/protoc-gen-go-grpc
 	google.golang.org/protobuf/cmd/protoc-gen-go
 )
+
+replace github.com/xtls/reality => github.com/hexband/reality v0.0.0-20261029095015-5c3697b8c032
